@@ -1,0 +1,17 @@
+-- crear frontend comentarios
+-- 1. Checar la version de ng
+-- 2. Instalar Bootstrap
+-- 3. Crear componentes, interfaces, servicios(conectarnos con un backend, reutilizar codigo, etc.)
+-- 4. Modificar Narvar
+-- 5. Modificar ListComentario
+-- 6. Routing
+-- 7. Agregar comentario
+-- 8. Agregar Bind campos
+-- 9. Agregar comentario: Validaciones
+-- 10. Ver comentario
+-- Terminado nuestro frontend
+-- 11. Conectarnos del Frontend al Backend
+-- 12. Listar y eliminar comentarios
+-- 13. Ver comentario (09/02)
+-- 14.Guardar comentario
+-- 15. Actualizar comentario
